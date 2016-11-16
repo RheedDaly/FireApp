@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326429638676",
+    "firebase_url": "https://fireapp-76845.firebaseio.com",
+    "project_id": "fireapp-76845",
+    "storage_bucket": "fireapp-76845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326429638676:android:323a2ede9670b2c1",
+        "android_client_info": {
+          "package_name": "com.thetechaupair.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326429638676-tac94maatjjmjn118lkdeo8s1ch644j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thetechaupair.fireapp",
+            "certificate_hash": "82315CACF070C5171705A156EC54393FB1EC3E54"
+          }
+        },
+        {
+          "client_id": "326429638676-3b6deuqe0bu97o7o28hdqpjj6aatvlci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtA_QIsqmjofBBc0dFEX0aVGYXtPN1qk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326429638676-3b6deuqe0bu97o7o28hdqpjj6aatvlci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
